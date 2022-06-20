@@ -1,2 +1,2 @@
 New Data
-Line Conflict
+Line ConflictLine Conflict
